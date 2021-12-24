@@ -1,0 +1,49 @@
+page {
+  background-color: #EAF0FB;
+}
+
+
+.imagesize {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.imagesize image { 
+  width:600rpx;
+  height:600rpx;
+}
+
+.bottom-line {
+  margin-top: 40rpx;
+  padding-bottom: 80rpx;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-txt {
+  font-size: 34rpx;
+  color: #c20909;
+}
+
+.bottom-txt2 {
+  font-size: 34rpx;
+  color: #8a17e7;
+}
+
+.bottom-txt3 {
+  font-size: 34rpx;
+  color: #8a17e7;
+}
+
+.bottom-button {
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.bottom-click {
+  background-color: #9f52f7;
+}

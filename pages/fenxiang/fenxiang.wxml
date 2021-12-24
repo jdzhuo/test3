@@ -1,0 +1,17 @@
+<!--pages/index/index.wxml-->
+
+
+
+ <view class='imagesize'>
+  <image src="/images/share2.png" class='in-image'   >
+  </image>
+</view>
+
+<view class="bottom-line">
+<view class="bottom-txt">--感谢你的使用--</view>
+<view class="bottom-txt2">--借鉴了B站上的番茄时钟--</view>
+<view class="bottom-txt3">--by——林一七--</view>
+<view class="buttom-button">
+<button class="bottom-click" size="mini"style="width:300rpx;height:60rpx;margin:0rpx; padding: 0rpx; font-size: 30rpx;" open-type="share">分享给好友</button>
+</view>
+</view>
